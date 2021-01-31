@@ -1,0 +1,6 @@
+module Pods_Homework_Storyboard_3 {
+  umbrella header "Pods-Homework_Storyboard_3-umbrella.h"
+
+  export *
+  module * { export * }
+}
